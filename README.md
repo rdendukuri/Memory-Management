@@ -13,3 +13,5 @@ Usage : $ ./Assign5 data5.txt [B/F]
           
           For every five transaction you can see the state of memory.
           
+          The respective output files ofr Best-Fit and First-Fit in repo are OutputB and OutputF.
+          
