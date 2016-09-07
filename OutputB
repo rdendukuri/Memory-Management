@@ -1,0 +1,181 @@
+Script started on Wed 28 Oct 2015 07:01:07 PM CDT
+]0;z1749863@hopper: ~/580/Assign5/Z1749863_A5_dirz1749863@hopper:~/580/Assign5/Z1749863_A5_dir$ ./Assign5 data5.txt F[KB
+
+Counter:0
+The Blocks of memory AVAILABLE
+Starting address of the block:3145728
+Size of the block:1048576
+Starting address of the block:4194304
+Size of the block:2097152
+Starting address of the block:6291456
+Size of the block:2097152
+Starting address of the block:8388608
+Size of the block:4194304
+Starting address of the block:12582912
+Size of the block:4194304
+Total size occupied by the blocks:13631488
+
+The Blocks of memory IN USE are as follows
+
+Empty list,No blocks
+
+Transaction:Loading/Allocation of PID1001 with memory size840000
+
+Process loaded/allocated with PID:1001
+Termination request for: 1001
+BlockMAINof Process ID:1001 succesfull deallocated
+Merging the blocks at3145728and3985728
+Merging the blocks at3145728and4194304
+
+Process ID :1001 Terminated
+
+Transaction:Loading/Allocation of PID1002 with memory size1572864
+
+Process loaded/allocated with PID:1002
+
+Transaction:Loading/Allocation of PID1002 with memory size1835008
+
+Process loaded/allocated with PID:1002
+
+Transaction:Loading/Allocation of PID1002 with memory size1835008
+
+Process loaded/allocated with PID:1002
+
+Counter:5
+The Blocks of memory AVAILABLE
+Starting address of the block:4980736
+Size of the block:1310720
+Starting address of the block:7864320
+Size of the block:524288
+Starting address of the block:10223616
+Size of the block:2359296
+Starting address of the block:12582912
+Size of the block:4194304
+Total size occupied by the blocks:8388608
+
+The Blocks of memory IN USE are as follows
+
+Starting address of the block:8388608
+Size of the block:1835008
+Starting address of the block:3145728
+Size of the block:1835008
+Starting address of the block:6291456
+Size of the block:1572864
+Total size occupied by the blocks:5242880
+Termination request for: 1002
+BlockBIG2of Process ID:1002 succesfull deallocated
+Merging the blocks at7864320and8388608
+BlockBIG1of Process ID:1002 succesfull deallocated
+Merging the blocks at3145728and4980736
+BlockXYZ1of Process ID:1002 succesfull deallocated
+Merging the blocks at6291456and7864320
+
+Process ID :1002 Terminated
+
+Transaction:Loading/Allocation of PID1003 with memory size680000
+
+Process loaded/allocated with PID:1003
+
+Transaction:Loading/Allocation of PID1003 with memory size786432
+
+Process loaded/allocated with PID:1003
+
+Transaction:Loading/Allocation of PID1003 with memory size786432
+
+Process loaded/allocated with PID:1003
+
+Transaction:Loading/Allocation of PID1003 with memory size786432
+
+Process loaded/allocated with PID:1003
+
+Counter:10
+The Blocks of memory AVAILABLE
+Starting address of the block:3932160
+Size of the block:2359296
+Starting address of the block:6291456
+Size of the block:3932160
+Starting address of the block:12476480
+Size of the block:106432
+Starting address of the block:12582912
+Size of the block:4194304
+Total size occupied by the blocks:10592192
+
+The Blocks of memory IN USE are as follows
+
+Starting address of the block:3145728
+Size of the block:786432
+Starting address of the block:11690048
+Size of the block:786432
+Starting address of the block:10903616
+Size of the block:786432
+Starting address of the block:10223616
+Size of the block:680000
+Total size occupied by the blocks:3039296
+
+Transaction:Loading/Allocation of PID1003 with memory size786432
+
+Process loaded/allocated with PID:1003
+
+Transacrion:Deallocation of Process of PID1003 BID:PQ0C
+Succesfull deallocation
+
+Transacrion:Deallocation of Process of PID1003 BID:PQ0B
+Succesfull deallocation
+Merging the blocks at11690048and12476480
+
+Transacrion:Deallocation of Process of PID1003 BID:ZZZZ
+Could not deallocate the block
+Termination request for: 1003
+BlockPQ0Dof Process ID:1003 succesfull deallocated
+Merging the blocks at3145728and3932160
+Merging the blocks at3145728and4718592
+BlockPQ0Aof Process ID:1003 succesfull deallocated
+Merging the blocks at10903616and11690048
+BlockABC1of Process ID:1003 succesfull deallocated
+Merging the blocks at10223616and10903616
+
+Process ID :1003 Terminated
+
+Counter:15
+The Blocks of memory AVAILABLE
+Starting address of the block:3145728
+Size of the block:3145728
+Starting address of the block:6291456
+Size of the block:3932160
+Starting address of the block:10223616
+Size of the block:2359296
+Starting address of the block:12582912
+Size of the block:4194304
+Total size occupied by the blocks:13631488
+
+The Blocks of memory IN USE are as follows
+
+Empty list,No blocks
+
+Transaction:Loading/Allocation of PID1004 with memory size5000000
+
+Could not find suitable block
+Termination request for: 1004
+
+Process ID :1004Could not be located
+
+The run has ended
+
+The Blocks of memory available are follows
+
+Starting address of the block:3145728
+Size of the block:3145728
+Starting address of the block:6291456
+Size of the block:3932160
+Starting address of the block:10223616
+Size of the block:2359296
+Starting address of the block:12582912
+Size of the block:4194304
+Total size occupied by the blocks:13631488
+
+The Blocks of memory in use are as follows
+
+Empty list,No blocks
+]0;z1749863@hopper: ~/580/Assign5/Z1749863_A5_dirz1749863@hopper:~/580/Assign5/Z1749863_A5_dir$ exit
+
+Script done on Wed 28 Oct 2015 07:01:16 PM CDT
